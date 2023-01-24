@@ -1,1 +1,33 @@
-
+{"name":"Foresight Institute",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Foresight Institute is a research organization and non-profit that supports the beneficial development of high-impact technologies. Since our founding in 1987 on a vision of guiding powerful technologies, we have continued to evolve into a multi-armed organization that focuses on several fields of science and technology that are too ambitious for legacy institutions to support. From molecular nanotechnology, to brain-computer interfaces, space exploration, cryptocommerce, and AI, Foresight gathers leading minds to advance research and accelerate progress toward flourishing futures.We do this by running several different projects: Technical groups connecting scientists, technologists and institutional allies working in nanotech, computer science, biotech, spacetech and neurotech that meet virtually to discuss how to advance their fields.Events such as meetups, conferences and technical workshops to build coalitions and community cross-silo for crucial technologies. Tech-tree mapping to help map out the fields of technologies that our groups are operating in to help identify bottlenecks, opportunities and funding possibilities. Fellowship program to support young talent in building their professional networks, connecting them to mentors and funnel them into high impact careers. Prizes to help incentivize research on the most important fields of science and technology. Science and technology media to communicate the content of our technical groups to the public via our Youtube channel, podcast and book. The Existential Hope project to invite more people, both the public and scientists, to collaborate on long term futures via the website hub, podcast, art gallery, bounties and monthly report on what is happening in the long-termist field.",
+"whitePaperLink":"https://foresight.org/wp-content/uploads/2022/10/2022-Foresight-Progress-Update.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/wv924Eq.jpg",
+       "source": "image",
+       "link": "https://foresight.org/wp-content/uploads/2022/10/2022-Foresight-Progress-Update.pdf"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/4fNoBYR.jpg",        
+       "source": "image",
+       "link": "https://foresight.org"}
+ ],
+ 
+"deleted":false,
+"primaryColor":"#01509d ",
+"twitterHandle":"@foresightinst",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/YdoZAhu.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://foresight.org",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Decentralized biotech" , "Focused Research", "Decentralized funding", "Philanthropy", "Ecosystems"]
+  
+}
